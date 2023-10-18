@@ -1,0 +1,8 @@
+{"editor.bracketPairColorization.enabled": true,
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "typeinfo": "cpp",
+        "iostream": "cpp",
+        "cmath": "cpp"
+    }
+}
